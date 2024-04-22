@@ -25,6 +25,15 @@ Public Opinion Polling: a curated list of resources evaluating large language mo
 
 ## 📜Content
 
+### US-centric papers
+
+#### Electoral data
+
+#### Other attitudinal and value data
+
+### Other countries
+
+### Cross-country comparisons
 
 ---
 
