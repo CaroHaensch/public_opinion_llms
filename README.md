@@ -10,7 +10,7 @@ Public Opinion Polling: a curated list of resources evaluating large language mo
 
 *Here are some other paper lists you might be interested in:*
 
-💡 ![Last Commit](https://img.shields.io/github/last-commit/Neph0s/awesome-llm-role-playing-with-persona.svg)**[Persona Paper 1](https://github.com/Neph0s/awesome-llm-role-playing-with-persona/):** A list of papers related to role-playing/persona papers and resources and the inspiration for this list
+💡 ![Last Commit](https://img.shields.io/github/last-commit/Neph0s/awesome-llm-role-playing-with-persona.svg)**[Persona Paper 1](https://github.com/Neph0s/awesome-llm-role-playing-with-persona/):**  A list of papers related to role-playing/persona papers and resources and the inspiration for this list
 
 💡 ![Last Commit](https://img.shields.io/github/last-commit/Sahandfer/PersonaPaper.svg)**[Persona Paper 2](https://github.com/Sahandfer/PersonaPaper):** A list of papers related to persona-based dialogue systems and personalized response generation.
 
@@ -41,6 +41,11 @@ Sun, S., Lee, E., Nan, D., Zhao, X., Lee, W., Jansen, B. J., & Kim, J. H. (2024)
 
   - Extension of Argyle et al. Focuses on sampling a subsample instead eliciting responses for the full human sample. Also uses ANES data.
 
+Bisbee, J., Clinton, J., Dorff, C., Kenkel, B., and Larson, J., 2023. Synthetic Replacements for Human Survey Data? The Perils of Large Language Models [online]. Available from: osf.io/preprints/socarxiv/5ecfa.
+
+ - Also references Argyle et al.  Evaluate ChatGPT 3.5 Turbo on the standard feeling thermometer survey question (regarding political parties) used by the ANES.
+ -  Conclusion from the abstract: "Responses from prompted “persona” profiles in ChatGPT produce measures of partisan and racial affective polarization that are seven times larger than the average opinion of humans who possess the same attributes as the prompted personas. Furthermore, synthetic data are artificially precise, with a standard deviation that is only 31% of the variation found in actual opinions among comparable humans." 
+
 
 #### Other attitudinal and value data
 
@@ -58,6 +63,8 @@ Chu, E., et al. (2023). Language Models Trained on Media Diets Can Predict Publi
 
   -  Utilizes BERT models that have been fine-tuned on online news articles, TV transcripts, and radio show transcripts. This enables the synthesis of consumer opinions on public health and consumer confidence regarding media diets.
   -  Conclusion from the abstract: "Through random silicon sampling and using only group-level demographic information, we discovered that language models can generate response distributions that are remarkably similar to the actual U.S. public opinion polls. Moreover, we found that the replicability of language models varies depending on the demographic group and topic of the question, and this can be attributed to inherent societal biases in the models."
+
+
 
 
 ### Other countries
