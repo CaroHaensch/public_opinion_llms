@@ -120,9 +120,8 @@ Clemmensen, L. H., & Kjærsgaard, R. D. (2023). Data Representativity for Machin
 
 Tjuatja, L., Chen, V., Wu, S. T., Talwalkar, A., & Neubig, G. (2024). Do LLMs exhibit human-like response biases? A case study in survey design. arXiv preprint arXiv:2311.04076.
 
-    - Explores sensitivity to prompt wording (different to human biases!). 
+  - Explores sensitivity to prompt wording (different from human biases!). 
 
----
 
 
 
