@@ -106,7 +106,15 @@ Durmus, E., Nguyen, K., Liao, T. I., Schiefer, N., Askell, A., Bakhtin, A., Chen
 
 Simmons, G., & Hare, C. (2023). Large Language Models as Subpopulation Representative Models: A Review. arXiv preprint arXiv:2310.17888.
 
+  - Survey of implementations.
+
 Clemmensen, L. H., & Kjærsgaard, R. D. (2023). Data Representativity for Machine Learning and AI Systems. arXiv preprint arXiv:2203.04706.
+
+   -  Framework of questions for creating and documenting data with data representativity in mind + measure recommendations.
+
+Tjuatja, L., Chen, V., Wu, S. T., Talwalkar, A., & Neubig, G. (2024). Do LLMs exhibit human-like response biases? A case study in survey design. arXiv preprint arXiv:2311.04076.
+
+    - Explores sensitivity to prompt wording (different to human biases!). 
 
 ---
 
