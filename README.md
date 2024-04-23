@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 
-Public Opinion Polling: a curated list of papers evaluating large language models for public opinion polling.
+LLM Public Opinion Polling: a curated list of papers evaluating large language models for public opinion polling.
 
 ---
 
