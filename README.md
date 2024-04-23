@@ -69,6 +69,11 @@ Dominguez-Olmedo, R., Hardt, M., & Mendler-Dünner, C. (2024). Questioning the S
 - Utilized 25 multiple-choice questions from the 2019 American Community Survey, covering a range of topics including basic demographic information, education, healthcare, disability status, employment, and income. Surveyed 39 language models of various sizes.
 -  Conclusion from the abstract: "Rather, models across the board trend toward uniformly random aggregate statistics over survey responses. This pattern is robust to various different ways of prompting the model, including what is the de-facto standard. Our findings demonstrate that aggregate statistics of a language model's survey responses lack the signals found in human populations. This absence of statistical signal cautions about the use of survey responses from large language models at present time."
 
+Hwang, E., Majumder, B. P., & Tandon, N. (2023). Aligning Language Models to User Opinions. arXiv preprint arXiv:2305.14929.
+
+  - Uses the OpinionQA dataset from Santurkar, evaluate GPT-3. Tries different sets of included information in prompts (dempraphics, ideology and opinions).
+  - Conclusion from the abstract: "We use this insight to align LLMs by modeling both user opinions as well as user demographics and ideology, achieving up to 7 points accuracy gains in predicting public opinions from survey questions across a broad set of topics. In addition to the typical approach of prompting LLMs with demographics and ideology, we discover that utilizing the most relevant past opinions from individual users enables the model to predict user opinions more accurately."
+
 ### Other countries
 
 #### Germany
