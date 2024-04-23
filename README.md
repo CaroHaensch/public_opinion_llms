@@ -4,7 +4,15 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 
-Public Opinion Polling: a curated list of resources evaluating large language models for public opinion polling.
+Public Opinion Polling: a curated list of papers evaluating large language models for public opinion polling.
+
+---
+
+## 💡  Contribution
+
+### Contributing to this repo
+
+🤲 Come collaborate with us to enhance this repository! Have you encountered any notable works that we might have overlooked? We value your additions. Each contribution makes a difference!  
 
 ---
 
@@ -116,9 +124,5 @@ Tjuatja, L., Chen, V., Wu, S. T., Talwalkar, A., & Neubig, G. (2024). Do LLMs ex
 
 ---
 
-## 💡  Contribution
 
-### Contributing to this repo
-
-🤲" **Join us in improving this repository!** Spotted any notable works we might have missed? We welcome your additions. Every contribution counts!   "
 
