@@ -44,7 +44,19 @@ Santurkar, S., Durmus, E., Ladhak, F., Lee, C., Liang, P., & Hashimoto, T. (2023
 
 ### Other countries
 
+#### Germany
+
+von der Heyde, L., Haensch, A.-C., & Wenz, A. (2023). Vox Populi, Vox AI? Using Language Models to Estimate German Public Opinion. SocArXiv, 8je9g, Center for Open Science.
+
+  - Uses data from the 2017 German federal elections and the German Longitudinal election study. Focus on GPT-3.
+  - Conclusion from the abstract: "We find that GPT-3 does not predict citizens’ vote choice accurately, exhibiting a bias towards the Green and Left parties, and making better predictions for more “typical” voter subgroups. While the language model is able to capture broad-brush tendencies tied to partisanship, it tends to miss out on the multifaceted factors that sway individual voter choices."
+ 
 ### Cross-country comparisons
+
+Durmus, E., Nguyen, K., Liao, T. I., Schiefer, N., Askell, A., Bakhtin, A., Chen, C., Hatfield-Dodds, Z., Hernandez, D., Joseph, N., Lovitt, L., McCandlish, S., Sikder, O., Tamkin, A., Thamkul, J., Kaplan, J., Clark, J., & Ganguli, D. (2024). Towards Measuring the Representation of Subjective Global Opinions in Language Models. arXiv preprint arXiv:2306.16388.
+
+  - Focuses on the alignment of distribution between LLM generated text and survey results from different countries. As part of the paper, they created *GlobalOpinionQA*, a dataset for evaluating LM output World Values Survey (WVS) and Pew Research Center’s Global Attitudes (GAS). Three different set-ups (default, country-specific prompting and language-translated version).
+  - Conclusion from the abstract: "By default, LLM responses tend to be more similar to the opinions of certain populations, such as those from the USA, and some European and South American countries, highlighting the potential for biases. When we prompt the model to consider a particular country's perspective, responses shift to be more similar to the opinions of the prompted populations, but can reflect harmful cultural stereotypes. When we translate GlobalOpinionQA questions to a target language, the model's responses do not necessarily become the most similar to the opinions of speakers of those languages."
 
 ---
 
