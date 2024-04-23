@@ -44,8 +44,13 @@ Sun, S., Lee, E., Nan, D., Zhao, X., Lee, W., Jansen, B. J., & Kim, J. H. (2024)
 Bisbee, J., Clinton, J., Dorff, C., Kenkel, B., and Larson, J., 2023. Synthetic Replacements for Human Survey Data? The Perils of Large Language Models [online]. Available from: osf.io/preprints/socarxiv/5ecfa.
 
  - Also references Argyle et al.  Evaluate ChatGPT 3.5 Turbo on the standard feeling thermometer survey question (regarding political parties) used by the ANES.
- -  Conclusion from the abstract: "Responses from prompted “persona” profiles in ChatGPT produce measures of partisan and racial affective polarization that are seven times larger than the average opinion of humans who possess the same attributes as the prompted personas. Furthermore, synthetic data are artificially precise, with a standard deviation that is only 31% of the variation found in actual opinions among comparable humans." 
+ -  Conclusion from the abstract: "Responses from prompted “persona” profiles in ChatGPT produce measures of partisan and racial affective polarization that are seven times larger than the average opinion of humans who possess the same attributes as the prompted personas. Furthermore, synthetic data are artificially precise, with a standard deviation that is only 31% of the variation found in actual opinions among comparable humans."
 
+ 
+Sanders, N. E., Ulinich, A., & Schneier, B. (2023). Demonstrations of the Potential of AI-based Political Issue Polling. arXiv preprint arXiv:2307.04781.
+
+  - Uses questions from the Cooperative Election Study (CES) questionnaire, evalutesOpenAI's GPT-3.5-turbo-0301 model.
+  - Conclusion from the abstract: "We find that ChatGPT is effective at anticipating both the mean level and distribution of public opinion on a variety of policy issues such as abortion bans and approval of the US Supreme Court, particularly in their ideological breakdown (correlation typically >85%). However, it is less successful at anticipating demographic-level differences. Moreover, ChatGPT tends to overgeneralize to new policy issues that arose after its training data was collected, such as US support for involvement in the war in Ukraine."
 
 #### Other attitudinal and value data
 
