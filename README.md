@@ -64,8 +64,10 @@ Chu, E., et al. (2023). Language Models Trained on Media Diets Can Predict Publi
   -  Utilizes BERT models that have been fine-tuned on online news articles, TV transcripts, and radio show transcripts. This enables the synthesis of consumer opinions on public health and consumer confidence regarding media diets.
   -  Conclusion from the abstract: "Through random silicon sampling and using only group-level demographic information, we discovered that language models can generate response distributions that are remarkably similar to the actual U.S. public opinion polls. Moreover, we found that the replicability of language models varies depending on the demographic group and topic of the question, and this can be attributed to inherent societal biases in the models."
 
+Dominguez-Olmedo, R., Hardt, M., & Mendler-Dünner, C. (2024). Questioning the Survey Responses of Large Language Models. arXiv preprint arXiv:2306.07951. 
 
-
+- Utilized 25 multiple-choice questions from the 2019 American Community Survey, covering a range of topics including basic demographic information, education, healthcare, disability status, employment, and income. Surveyed 39 language models of various sizes.
+-  Conclusion from the abstract: "Rather, models across the board trend toward uniformly random aggregate statistics over survey responses. This pattern is robust to various different ways of prompting the model, including what is the de-facto standard. Our findings demonstrate that aggregate statistics of a language model's survey responses lack the signals found in human populations. This absence of statistical signal cautions about the use of survey responses from large language models at present time."
 
 ### Other countries
 
@@ -93,6 +95,8 @@ Durmus, E., Nguyen, K., Liao, T. I., Schiefer, N., Askell, A., Bakhtin, A., Chen
 ## Frameworks, reviews, etc.
 
 Simmons, G., & Hare, C. (2023). Large Language Models as Subpopulation Representative Models: A Review. arXiv preprint arXiv:2310.17888.
+
+Clemmensen, L. H., & Kjærsgaard, R. D. (2023). Data Representativity for Machine Learning and AI Systems. arXiv preprint arXiv:2203.04706.
 
 ---
 
