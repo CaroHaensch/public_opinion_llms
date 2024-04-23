@@ -26,18 +26,21 @@ Public Opinion Polling: a curated list of resources evaluating large language mo
 
 ### US-centric papers
 
+#### Electoral data 
+
 Argyle, L.P. et al. (2023) ‘Out of One, Many: Using Language Models to Simulate Human Samples’, Political Analysis, 31(3), pp. 337–351. doi:10.1017/pan.2023.2.
 
   - One of the most prominent proposals to use LLM for creating synthetic survey responses. Uses the term *silicon sampling*. Models examined include *GPT-3*. Thematic focus on U.S. politics and public opinion. Uses the 2012, 2016, and 2020 waves of the *American National Election Studies (ANES)* and Rothschild et al.’s “Pigeonholing Partisans” data as comparison.
-  - Conclusion from the paper: "We then compare the silicon and human samples to demonstrate that the information contained in GPT-3 goes far beyond surface similarity. It is nuanced, multifaceted, and reflects the complex interplay between ideas, attitudes, and sociocultural context that characterize human attitudes. We suggest that language models with sufficient algorithmic fidelity thus constitute a novel and powerful tool to advance understanding of humans and society across a variety of disciplines."
+  - Conclusion from the abstract: "We then compare the silicon and human samples to demonstrate that the information contained in GPT-3 goes far beyond surface similarity. It is nuanced, multifaceted, and reflects the complex interplay between ideas, attitudes, and sociocultural context that characterize human attitudes. We suggest that language models with sufficient algorithmic fidelity thus constitute a novel and powerful tool to advance understanding of humans and society across a variety of disciplines."
+
+#### Other attitudinal and value data
 
 Santurkar, S., Durmus, E., Ladhak, F., Lee, C., Liang, P., & Hashimoto, T. (2023). Whose Opinions Do Language Models Reflect?. arXiv preprint arXiv:2303.17548.
 
-  - Focuses on the alignment of distribution between LLM generated text and US-American demographic groups. As part of the paper, they created *OpinionQA*, a dataset for evaluating LM output with those of 60 US demographic groups with a wide range of topics from abortion to automation, based on *Pew Research’s American Trends Panels*. Partly focuses on the comparison between different *base LMs (ada, davinci, davinci, j1-grande and j1-jumbo), and human feedback (HF)-tuned LMs that (text-* and j1-grande-v2-beta)*. Comparison on the level of group distribution, not on person level. 
+  - Focuses on the alignment of distribution between LLM generated text and US-American demographic groups. As part of the paper, they created *OpinionQA*, a dataset for evaluating LM output with those of 60 US demographic groups with a wide range of topics from abortion to automation, based on *Pew Research’s American Trends Panels*. Partly focuses on the comparison between different *base LMs (ada, davinci, davinci, j1-grande and j1-jumbo), and human feedback (HF)-tuned LMs that (text-* and j1-grande-v2-beta)*. Comparison on the level of group distribution, not on person level.
+  - Conclusion from the abstract: "Our analysis not only confirms prior observations about the left-leaning tendencies of some human feedback-tuned LMs, but also surfaces groups whose opinions are poorly reflected by current LMs (e.g., 65+ and widowed individuals)." 
 
-#### Electoral data
 
-#### Other attitudinal and value data
 
 ### Other countries
 
