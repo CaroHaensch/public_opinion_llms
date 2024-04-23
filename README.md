@@ -1,5 +1,5 @@
 
-# LLM Public Opition Resources
+# LLM Public Opinion Resources
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
@@ -55,7 +55,7 @@ von der Heyde, L., Haensch, A.-C., & Wenz, A. (2023). Vox Populi, Vox AI? Using 
 
 Durmus, E., Nguyen, K., Liao, T. I., Schiefer, N., Askell, A., Bakhtin, A., Chen, C., Hatfield-Dodds, Z., Hernandez, D., Joseph, N., Lovitt, L., McCandlish, S., Sikder, O., Tamkin, A., Thamkul, J., Kaplan, J., Clark, J., & Ganguli, D. (2024). Towards Measuring the Representation of Subjective Global Opinions in Language Models. arXiv preprint arXiv:2306.16388.
 
-  - Focuses on the alignment of distribution between LLM generated text and survey results from different countries. As part of the paper, they created *GlobalOpinionQA*, a dataset for evaluating LM output World Values Survey (WVS) and Pew Research Center’s Global Attitudes (GAS). Three different set-ups (default, country-specific prompting and language-translated version).
+  - Focuses on the alignment of distribution between LLM generated text and survey results from different countries. As part of the paper, they created *GlobalOpinionQA*, a dataset for evaluating LM output World Values Survey (WVS) and Pew Research Center’s Global Attitudes (GAS). Three different set-ups (default, country-specific prompting and language-translated version). Uses a decoder-only transformer model fine-tuned with Reinforcement Learning from Human Feedback (RLHF) and Constitutional AI (CAI).
   - Conclusion from the abstract: "By default, LLM responses tend to be more similar to the opinions of certain populations, such as those from the USA, and some European and South American countries, highlighting the potential for biases. When we prompt the model to consider a particular country's perspective, responses shift to be more similar to the opinions of the prompted populations, but can reflect harmful cultural stereotypes. When we translate GlobalOpinionQA questions to a target language, the model's responses do not necessarily become the most similar to the opinions of speakers of those languages."
 
 ---
