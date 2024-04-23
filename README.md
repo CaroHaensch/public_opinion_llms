@@ -27,6 +27,10 @@ Public Opinion Polling: a curated list of resources evaluating large language mo
 
 ### US-centric papers
 
+Argyle, L.P. et al. (2023) ‘Out of One, Many: Using Language Models to Simulate Human Samples’, Political Analysis, 31(3), pp. 337–351. doi:10.1017/pan.2023.2.
+
+  - One of the most prominent proposals to use LLM for creating synthetic survey responses.
+
 #### Electoral data
 
 #### Other attitudinal and value data
