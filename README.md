@@ -2,7 +2,6 @@
 # LLM Public Opition Resources
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
-![Last Commit](https://img.shields.io/github/last-commit/Neph0s/awesome-llm-role-playing-with-persona.svg)
 
 
 Public Opinion Polling: a curated list of resources evaluating large language models for public opinion polling.
