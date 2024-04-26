@@ -18,7 +18,7 @@ LLM Public Opinion Polling: a curated list of papers evaluating large language m
 
 *Here are some other paper lists you might be interested in:*
 
-💡 ![Last Commit](https://img.shields.io/github/last-commit/Sahandfer/PersonaPaper.svg) **[Persona Paper 2](https://github.com/Sahandfer/PersonaPaper):** A list of papers related to persona-based dialogue systems and personalized response generation.
+💡 ![Last Commit](https://img.shields.io/github/last-commit/Sahandfer/PersonaPaper.svg) **[Persona-based Dialogue Systems](https://github.com/Sahandfer/PersonaPaper):** A list of papers related to persona-based dialogue systems and personalized response generation.
 
 💡 ![Last Commit](https://img.shields.io/github/last-commit/penguinnnnn/awesome-llm-and-society.svg) **[LLM and Society](https://github.com/penguinnnnn/awesome-llm-and-society):**  Papers on (1) Psychology of LLMs; (2) Biases in LLMs.
 
