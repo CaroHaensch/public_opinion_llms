@@ -112,7 +112,7 @@ Durmus, E., Nguyen, K., Liao, T. I., Schiefer, N., Askell, A., Bakhtin, A., Chen
 
 Simmons, G., & Hare, C. (2023). Large Language Models as Subpopulation Representative Models: A Review. arXiv preprint arXiv:2310.17888.
 
-  - Survey of implementations.
+  - Survey of implementations and proposition of frameworks/workflow for deployment and evaluation of LLMs as SRM.
 
 Clemmensen, L. H., & Kjærsgaard, R. D. (2023). Data Representativity for Machine Learning and AI Systems. arXiv preprint arXiv:2203.04706.
 
